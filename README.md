@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Retsu, a software engineer specializing in back-end development 👨‍💻</div>  
+### <div align="center">I'm Retsu, a software engineer with a passion DevOps 👨‍💻</div>  
   
 
 - 🔭 I’m currently working on [My Portfolio Website](https://github.com/rishavanand/github-profilinator)  
